@@ -51,15 +51,3 @@ Virtual steering with Mediapipe and OpenCV is a powerful tool that can be used t
 
 OpenCV , Mediapipe
 
-## Demo
-
-**[Youtube](https://github.com/sv2441/Dr.-Driving-Game-using-Virtual-Steering-with-Mediapipe-and-OpenCV/blob/master/Result.mkv)**
-
-## Acknowledgements
-
-- [Hand Detection | mediapipe](https://google.github.io/mediapipe/solutions/pose.html)
-
-## Links
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sv2441.github.io/sandeepp/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-vishwakarma-3b592b174/)
