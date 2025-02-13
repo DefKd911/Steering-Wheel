@@ -1,6 +1,5 @@
 # Dr. Driving Game using Virtual Steering with Mediapipe and OpenCV
 
-![](https://github.com/sv2441/Dr.-Driving-Game-using-Virtual-Steering-with-Mediapipe-and-OpenCV/blob/master/output.gif)
 
 ## Introduction
 
